@@ -83,7 +83,7 @@ h6 {
 }
 
 .widescreen {
-  width: auto;
+  width: none;
 }
 
 .nav-menu * {
