@@ -13,8 +13,8 @@ body {
   color: #272829;
 }
 
-.post-body {
-    font-size: "15px";
+body.item-view .post-body {
+    font: "400 15px Lora, serif";
   }
 
 a {
