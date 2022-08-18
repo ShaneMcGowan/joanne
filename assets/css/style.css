@@ -72,6 +72,8 @@ h6 {
 
 #main {
   font-size: 15px;
+  max-width: 900px;
+    margin: 0 auto;
 }
 
 @media (max-width: 1199px) {
