@@ -631,6 +631,11 @@ section {
   padding: 0;
 }
 
+#portfolio .container .section-title { 
+  padding-left: 40px; 
+  padding-right: 40px; 
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
