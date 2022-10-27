@@ -324,7 +324,7 @@ section {
 /* The grid: Four equal columns that floats next to each other */
 .column-books {
   float: left;
-  width: 5%;
+  width: 25%;
   padding: 10px;
 }
 
