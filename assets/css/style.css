@@ -315,7 +315,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# BOOKS
+# Books
 --------------------------------------------------------------*/
 * {
   box-sizing: border-box;
@@ -324,7 +324,7 @@ section {
 /* The grid: Four equal columns that floats next to each other */
 .column-books {
   float: left;
-  width: 25%;
+  width: 5%;
   padding: 10px;
 }
 
@@ -422,7 +422,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Akills
+# Skills
 --------------------------------------------------------------*/
 .skills .progress {
   height: 60px;
